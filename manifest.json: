@@ -1,0 +1,7 @@
+"permissions": [
+  "activeTab",
+  "storage",
+  "tabs",
+  "contextMenus",
+  "scripting"
+],
